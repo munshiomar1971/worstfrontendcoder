@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @worstfrontendcoder
-- 👀 I’m interested in Web Development
-- 🌱 I’m currently learning php
-- 💞️ I’m looking to collaborate on Javascript and/or php projects
+- 👀 I’m interested in Web Development and Rust 
+- 🌱 I’m currently learning Rust
+- 💞️ I’m looking to collaborate on Javascript and/or php and/or Rust projects
 - 📫 How to reach me: omarsumon1030@gmail.com
 
 <!---
