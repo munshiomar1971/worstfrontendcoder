@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @worstfrontendcoder
-- 👀 I’m interested in Web Development and Rust 
-- 🌱 I’m currently learning Rust
+- 👀 I’m interested in Web Developmeny, Python, Desktop Apllications, and Game Devlopment
+- 🌱 I’m currently learning Python
 - 💞️ I’m looking to collaborate on Javascript and/or php and/or Rust projects
 - 📫 Email: omarsumon1030@gmail.com
 - 📬 Discord: Oman.php 🇴🇲#9024
